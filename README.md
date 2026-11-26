@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there 👋, I'm Samiha Shama!
 
-<!--
-**Samihashama-123/Samihashama-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### CSE Student | Aspiring Software Engineer | UI/UX Designer 🎨💻
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a Computer Science and Engineering student passionate about programming, software development, problem-solving, and UI/UX design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 About Me
+
+- 🎓 Studying Computer Science and Engineering.
+- 💻 Interested in Software Engineering and Application Development.
+- 🎨 Exploring UI/UX Design.
+- 🌱 Continuously learning new technologies and improving my skills.
+- 🚀 Building projects and documenting my programming journey.
+
+### 🛠️ Technologies & Tools
+
+**Programming Languages:** C, C++, Java
+
+**Web Development:** HTML, CSS
+
+**Tools:** Git, GitHub, VS Code, Figma
+
+### 📌 Coding Profiles
+
+- [Codeforces](https://codeforces.com/profile/SamihaShama123)
+- [HackerRank](https://www.hackerrank.com/profile/samihashama2020)
+
+### 📫 Connect With Me
+
+Feel free to explore my repositories and follow my learning journey!
+
+---
+
+⭐ Thanks for visiting my profile!
