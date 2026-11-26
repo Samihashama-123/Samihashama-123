@@ -38,6 +38,41 @@ Welcome to my GitHub profile! I'm a Computer Science and Engineering student pas
   <img src="https://streak-stats.demolab.com?user=Samihashama-123&theme=tokyonight&hide_border=true" />
 </p>
 
+### 🚀 Featured Projects
+
+#### 1. [NiyomScript](https://github.com/Samihashama-123/NiyomScript)
+A Bangla-inspired programming language with a custom compiler and interactive browser playground.
+
+**Technologies:** JavaScript, HTML, CSS
+
+#### 2. [CitizenConnect Pro](https://github.com/Samihashama-123/citizenconnect-pro)
+A Smart Public Service Platform designed to make citizen services more accessible through a desktop application.
+
+**Technologies:** Java, Java Swing, MongoDB, SQLite
+
+#### 3. [FoodLink – Mobile App](https://github.com/Samihashama-123/mobile-app-development)
+A food donation and sharing platform that connects food donors with people in need and helps reduce food waste.
+
+**Technologies:** Flutter, Dart, Firebase
+
+#### 4. [Computer Graphics Codes](https://github.com/Samihashama-123/Computer_graphics_codes)
+A collection of computer graphics practice codes and algorithm implementations.
+
+**Technologies:** C++, Computer Graphics
+
+#### 5. [Phitron Learning Journey](https://github.com/Samihashama-123/phitron-learning-journey)
+My programming journey through Phitron, including coding practice, problem-solving, and course exercises.
+
+**Technologies:** C, C++
+
+### 🎯 Current Focus
+
+- Improving problem-solving skills.
+- Learning Software Engineering concepts.
+- Exploring UI/UX Design.
+- Developing practical applications.
+- Continuously learning new technologies.
+
 ### 📫 Connect With Me
 
 Feel free to explore my repositories and follow my learning journey!
