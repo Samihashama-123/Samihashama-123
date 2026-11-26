@@ -56,7 +56,7 @@ Exploring programming language design and compiler development through a custom 
 
 A Java Swing-based desktop application designed to bring public service features together in one platform.
 
-`Java` `Java Swing` `MongoDB` `SQLite`
+`Java` `Java Swing` `MongoDB`
 
 [![Explore Repository](https://img.shields.io/badge/Explore%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/Samihashama-123/citizenconnect-pro)
 
