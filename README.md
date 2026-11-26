@@ -25,6 +25,19 @@ Welcome to my GitHub profile! I'm a Computer Science and Engineering student pas
 - [Codeforces](https://codeforces.com/profile/SamihaShama123)
 - [HackerRank](https://www.hackerrank.com/profile/samihashama2020)
 
+  ### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Samihashama-123&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samihashama-123&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+### 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Samihashama-123&theme=tokyonight&hide_border=true" />
+</p>
+
 ### 📫 Connect With Me
 
 Feel free to explore my repositories and follow my learning journey!
