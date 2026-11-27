@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Samiha Shama
 
-### `Computer Science Student` · `Aspiring Software Engineer` · `UI/UX Designer`
+### `Computer Science Student` · `UI/UX Designer`
 
 I enjoy turning ideas into practical solutions through code and design. I'm passionate about software development, problem-solving, and creating user-friendly digital experiences.
 
