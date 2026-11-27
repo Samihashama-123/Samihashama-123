@@ -1,3 +1,13 @@
+
+<p align="center">
+  <img src="Neon%20GitHub%20Banner_%20Code,%20Design,%20Learn.png"
+       width="100%"
+       alt="Samiha Shama GitHub Banner"/>
+</p>
+
+<br/>
+
+
 # 👋 Hi, I'm Samiha Shama
 
 ### `Computer Science Student` · `UI/UX Designer`
